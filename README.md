@@ -478,13 +478,3 @@ Giao diện người dùng được thiết kế chuẩn chuyên nghiệp theo c
 
 ---
 
-## 11. Project Metadata & Authors (Thông Tin Học Phần & Tác Giả)
-
-* **Tên học phần**: Chuyên đề Trí tuệ Nhân tạo & Khoa học Dữ liệu (AI & Data Science Special Topics)
-* **Giảng viên hướng dẫn**: ThS. Trần Anh Đạt (Dat Tran) — Khoa Công nghệ Thông tin, Trường Đại học Thủy lợi (TLU)
-* **Email liên hệ GV**: `dat.trananh@tlu.edu.vn`
-* **Người thực hiện**: Đỗ Văn Tùng (GitHub: [@1Nimesa0](https://github.com/1Nimesa0))
-* **Mã nguồn dự án**: [https://github.com/1Nimesa0/IT_Support-AI.git](https://github.com/1Nimesa0/IT_Support-AI.git)
-* **Phiên bản (Version)**: `v1.0.0-release`
-* **Ngày cập nhật**: Tháng 11 / 2026
-* **Giấy phép**: [MIT License](LICENSE)
